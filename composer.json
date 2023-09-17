@@ -1,0 +1,21 @@
+{
+    "name": "red-dot/facebook-sso",
+    "description": "A PHP package for Facebook Single Sign-On (SSO)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tasnim Hasan",
+            "email": "ummetasnim@iut-dhaka.edu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "RedDot\\FacebookSSO\\": "src/FacebookSSO"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+  }
+  
